@@ -1,0 +1,7 @@
+streamlit
+transformers
+matplotlib
+numpy
+PyPDF2
+dataset
+sklearn
